@@ -16,3 +16,22 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px gray, rgba(0,0,0.473);
 }
+
+header{
+
+    background-color: #f0f0f0; /* Cor de fundo do cabeçalho */
+    padding: 10px; /* Espaçamento interno do cabeçalho */
+    text-align: center; /* Alinhamento do texto no centro */
+}
+
+header img {
+    width: 200px;  /* Define a largura da imagem */
+    height: auto;  /* Mantém a proporção da altura */
+    margin-right: 15px; /* Espaço entre a imagem e o título */
+}
+
+header h1 {
+    font-size: 2em; /* Tamanho da fonte do título */
+    color: #333; /* Cor do texto do título */
+    margin-bottom: 5px; /* Espaçamento inferior do título */
+}
